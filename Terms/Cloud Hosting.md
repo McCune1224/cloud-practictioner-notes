@@ -1,0 +1,1 @@
+Multiple Physical machines that act as one system. The system is abstracted into multiple cloud services.
