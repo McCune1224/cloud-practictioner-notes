@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3b95d716f7c150",
+        "id": "ebee7c836a2cb544",
         "type": "tabs",
         "children": [
           {
-            "id": "ca9f34f955320461",
+            "id": "1a653c7b5b00aa3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global Infrastructure/AWS for Government.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceb15f99230a3323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Services/AWS in China.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b65ad53920cd35b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Infrastructure/AWS Global Infrastructure Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "460e2a88613a43b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Infrastructure/Fault Tolerance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad97aeaed94209f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Services/Direct Connect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58ee32d4bdb81741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Services/Direct Connect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe5b2e735cadb5e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Services/Local Zones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a794b04a6937a4ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Infrastructure/Data Residency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4ce5d5db4d71f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global Infrastructure/Data Residency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f40ccb5ed699556b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Services/AWS in China.md",
+                "file": "Business Continuity Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Services/AWS in China.md",
+                "file": "Business Continuity Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Services/AWS in China.md",
+                "file": "Business Continuity Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Services/AWS in China.md"
+                "file": "Business Continuity Plan.md"
               }
             }
           }
@@ -255,38 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40ccb5ed699556b",
+  "active": "1a653c7b5b00aa3f",
   "lastOpenFiles": [
-    "AWS Services/AWS Config.md",
+    "Disaster Recovery Options.md",
+    "CLF-C02.md",
+    "Cloud Architecture Terminologies.md",
+    "Global Infrastructure/AWS for Government.md",
     "AWS Services/AWS in China.md",
+    "Global Infrastructure/AWS Global Infrastructure Metrics.md",
+    "Global Infrastructure/Fault Tolerance.md",
+    "AWS Services/Direct Connect.md",
+    "AWS Services/Local Zones.md",
+    "Global Infrastructure/Data Residency.md",
+    "Global Infrastructure/Sustainability.md",
+    "AWS Services/AWS Outposts.md",
+    "Terms/Untitled.md",
+    "Business Continuity Plan.md",
+    "Terms/High Durability.md",
+    "Terms/Highly Fault Tolerant.md",
+    "Terms/High Elasticity.md",
+    "Terms/High Scalability.md",
+    "Terms/High Availability.md",
+    "AWS Services/Ground Station.md",
+    "AWS Services/AWS Config.md",
     "AWS Services/GovCloud.md",
     "AWS Services/Wavelength Zones.md",
-    "AWS Services/Local Zones.md",
     "AWS Services/IAM Policies.md",
-    "AWS Services/Direct Connect.md",
-    "AWS Services/AWS Outposts.md",
-    "Global Infrastructure/AWS for Government.md",
-    "Global Infrastructure/Data Residency.md",
     "Global Infrastructure/AWS Global Network.md",
-    "Global Infrastructure/AWS Global Infrastructure Metrics.md",
     "Global Infrastructure/Regional vs Global Services.md",
-    "Global Infrastructure/Point of Presence.md",
     "AWS Services",
-    "Global Infrastructure/Fault Tolerance.md",
-    "CLF-C02.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Global Infrastructure/Availability Zones.md",
-    "Cloud Concepts/Technology Overview.md",
-    "Cloud Concepts/AWS Technology Overview.md",
-    "Cloud Concepts/Benefits of Cloud.md",
-    "Cloud Concepts/Cloud Computing Deployment Models.md",
-    "Global Infrastructure/Availability Zones 1.md",
-    "Cloud Concepts/Types of Cloud Computing.md",
-    "Cloud Concepts/Cloud Services.md",
-    "2024-02-08.md",
     "Cloud Concepts",
-    "Global Infrastructure/Regions.md",
     "Global Infrastructure",
     "Media/Pasted image 20240124180249.png",
     "Media/Pasted image 20240123120008.png",
